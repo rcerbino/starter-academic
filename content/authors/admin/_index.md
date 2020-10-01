@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Roberto Cerbino
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Experimental Soft Matter
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of XXX
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
